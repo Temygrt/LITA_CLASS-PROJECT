@@ -46,6 +46,12 @@ EDA involves the exploring of the Data to answer some questions about the Data s
 - What are the top selling products?
 - Which region has the highest sales?
 
+ ### Data Visulaisation
+ 
+![image](https://github.com/user-attachments/assets/53fbcee5-a9e2-41a3-ac03-e7b44dc7f80e)
+
+
+
 ### Data Analysis
 This is where we include some basic lines of code or queries or even some of the DAX expressions used during the analysis;
 ```SQL
@@ -54,4 +60,9 @@ SELECT * FROM TABLE1
 
 
 
-Table 1	Table 2	Table 3
+
+
+
+
+
+
